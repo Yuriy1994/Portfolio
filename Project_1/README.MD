@@ -9,7 +9,13 @@
 
 ## Инструменты
 
-- python, pandas, numpy, scipy, matplotlib, seaborn, plotly
+- python
+- pandas
+- numpy
+- scipy
+- matplotlib
+- seaborn
+- plotly
 
 ## Методы:
 - Стат. тесты
