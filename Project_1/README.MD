@@ -1,6 +1,6 @@
 # Ритейл анализ строительного магазина
 
-[Тетрадка ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+➡️ [Тетрадка ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
 
 ## Описание проекта
 
