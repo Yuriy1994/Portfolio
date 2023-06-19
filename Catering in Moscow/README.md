@@ -1,6 +1,6 @@
 # Ритейл анализ строительного магазина
 
-➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/Building%20materials%20store/Retail%20analysis%20of%20a%20building%20materials%20store.ipynb)
+➡️ [Тетрадка ipynb]()
 
 ## Описание проекта
 
