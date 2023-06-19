@@ -4,7 +4,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Ритейл анализ строительного магазина](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, matplotlib, seaborn, plotly       |
+| 1.   | [Ритейл анализ строительного магазина](https://github.com/mechfil/Portfolio/tree/main/Project_1) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, matplotlib, seaborn, plotly       |
 | 2.   | [---](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | --- <br/>--- <br/>--- | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 3.   | [---](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | ---             | python, pandas, numpy, nltk, sklearn, CatBoost |
 
