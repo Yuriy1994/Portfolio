@@ -6,7 +6,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Ритейл анализ строительного магазина](https://github.com/mechfil/Portfolio/tree/main/Building%20materials%20store) | Провел анализ успешности запущенной программы лояльности | python, pandas, numpy, scipy, matplotlib, seaborn, plotly       |
 | 2.   | [Анализ рынка общепита Москвы](https://github.com/mechfil/Portfolio/tree/main/Catering%20in%20Moscow) | Дал рекомендации по открытию нового заведения общепита | python, pandas, folium, seaborn, plotly, numpy, matplotlib |
-| 3.   | [---](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | ---             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 3.   | [A/B-тест рекомендательной системы интернет-магазина](https://github.com/mechfil/Portfolio/tree/main/AB-test%20online%20store) | ---             | python, pandas, scipy, seaborn, plotly |
 
 
 
