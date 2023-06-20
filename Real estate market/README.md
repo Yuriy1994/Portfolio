@@ -1,6 +1,6 @@
 # Анализ рынка недвижимости Санкт-Петербурга
 
-➡️ [Тетрадка ipynb]()
+➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/Real%20estate%20market/Real%20estate%20market.ipynb)
 
 ## Описание проекта
 Необходимо провести анализ рынка недвижимости Санкт-Петербурга
