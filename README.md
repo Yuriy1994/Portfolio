@@ -7,6 +7,7 @@
 | 1.   | [Ритейл анализ строительного магазина](https://github.com/mechfil/Portfolio/tree/main/Building%20materials%20store) | Провел анализ успешности запущенной программы лояльности | python, pandas, numpy, scipy, matplotlib, seaborn, plotly       |
 | 2.   | [Анализ рынка общепита Москвы](https://github.com/mechfil/Portfolio/tree/main/Catering%20in%20Moscow) | Дал рекомендации по открытию нового заведения общепита | python, pandas, folium, seaborn, plotly, numpy, matplotlib |
 | 3.   | [A/B-тест рекомендательной системы интернет-магазина](https://github.com/mechfil/Portfolio/tree/main/AB-test%20online%20store) | Провел анализ результатов A/B-теста             | python, pandas, scipy, seaborn, plotly |
+| 4.   | [Дашборд агрегатора новостей](https://github.com/mechfil/Portfolio/tree/main/Yandex%20Zen%20dashboard) | Построил дашборд взаимодействия пользователей с карточками статей            | Tableau, SQL, sqlalchemy, python |
 
 
 
