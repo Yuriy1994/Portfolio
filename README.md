@@ -10,7 +10,8 @@
 | 4.   | [Дашборд агрегатора новостей](https://github.com/mechfil/Portfolio/tree/main/Yandex%20Zen%20dashboard) | Построил дашборд действий пользователей            | Tableau, SQL, sqlalchemy, python |
 | 5.   | [Анализ рынка компьютерных игр](https://github.com/mechfil/Portfolio/tree/main/%D0%A1omputer%20games%20market) | Дал рекомендации по рекламе интернет-магазина компьютерных игр            | matplotlib, seaborn, scipy |
 | 6.   | [Анализ убытков мобильного приложения](https://github.com/mechfil/Portfolio/tree/main/Mobile%20app%20analysis) | Провел анализ каналов привлечения пользователей            | pandas, matplotlib, numpy |
-| 7.   | [База данных книжного сервиса](https://github.com/mechfil/Portfolio/tree/main/Book%20service%20database) | Провел выгрузку данных из БД в соответсвии с задачами           | SQL, sqlalchemy, pandas |
+| 7.   | [Выгрузка данных из БД книжного сервиса](https://github.com/mechfil/Portfolio/tree/main/Book%20service%20database) | Провел выгрузку данных из БД в соответсвии с задачами           | SQL, sqlalchemy, pandas |
+| 8.   | [A/B-тест шрифтов мобильного приложения]() | Провел анализ результатов A/A/B-теста          | pandas, scipy, matplotlib, plotly |
 
 
 
