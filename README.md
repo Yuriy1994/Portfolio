@@ -12,6 +12,7 @@
 | 6.   | [Анализ убытков мобильного приложения](https://github.com/mechfil/Portfolio/tree/main/Mobile%20app%20analysis) | Провел анализ каналов привлечения пользователей            | pandas, matplotlib, numpy |
 | 7.   | [Выгрузка данных из БД книжного сервиса](https://github.com/mechfil/Portfolio/tree/main/Book%20service%20database) | Провел выгрузку данных из БД в соответсвии с задачами           | SQL, sqlalchemy, pandas |
 | 8.   | [A/B-тест шрифтов мобильного приложения](https://github.com/mechfil/Portfolio/tree/main/AB-test%20mobile%20application) | Провел анализ результатов A/A/B-теста          | pandas, scipy, matplotlib, plotly |
+| 9.   | [A/B-тест и приоритезация гипотез]() | Приоритезировал гипотезы и провел анализ результатов A/B-теста         | pandas, scipy, matplotlib |
 
 
 
