@@ -1,6 +1,6 @@
 # A/B-тест воронки интернет-магазина
 
-➡️ [Тетрадка ipynb]()
+➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/AB-test%20online%20store/AB-test%20of%20an%20online%20store%20funnel.ipynb)
 
 ## Описание проекта
 
