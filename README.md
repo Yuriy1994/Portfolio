@@ -8,6 +8,7 @@
 | 2.   | [Анализ рынка общепита Москвы](https://github.com/mechfil/Portfolio/tree/main/Catering%20in%20Moscow) | Дал рекомендации по открытию нового заведения общепита | folium, seaborn, plotly, numpy |
 | 3.   | [A/B-тест рекомендательной системы интернет-магазина](https://github.com/mechfil/Portfolio/tree/main/AB-test%20online%20store) | Провел анализ результатов A/B-теста             | python, pandas, scipy, seaborn, plotly |
 | 4.   | [Дашборд агрегатора новостей](https://github.com/mechfil/Portfolio/tree/main/Yandex%20Zen%20dashboard) | Построил дашборд действий пользователей            | Tableau, SQL, sqlalchemy, python |
+| 5.   | [Рынок компьютерных игр](https://github.com/mechfil/Portfolio/tree/main/%D0%A1omputer%20games%20market) | Дал рекомендации по рекламе интернет-магазина компьютерных игр            | matplotlib, seaborn, scipy |
 
 
 
