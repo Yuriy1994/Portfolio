@@ -1,6 +1,7 @@
 # Ритейл анализ строительного магазина
 
 ➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/Building%20materials%20store/Retail%20analysis%20of%20a%20building%20materials%20store.ipynb)
+➡️ [Презентация pdf](https://disk.yandex.ru/i/upR-ZLa9UdvT-w)
 
 ## Описание проекта
 
