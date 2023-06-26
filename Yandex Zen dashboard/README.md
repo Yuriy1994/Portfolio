@@ -1,7 +1,9 @@
 # Построения дашборда агрегатора новостей
 
 ➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/Yandex%20Zen%20dashboard/News%20aggregator%20dashboard.ipynb)
+
 ➡️ [Дашборд Tableau](https://public.tableau.com/app/profile/yuriy.ivlev/viz/__16810592522030/_?publish=yes)
+
 ➡️ [Презентация pdf](https://disk.yandex.ru/i/FH7nbl0zhPA4nQ)
 
 ## Описание проекта
