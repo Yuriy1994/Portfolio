@@ -1,6 +1,6 @@
 # Анализ причин убыточности мобильного приложения
 
-➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/Mobile%20app%20analysis/Mobile%20app%20analysis.ipynb)
+➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/Mobile%20app%20analysis/Mobile%20app%20analysis.ipynb)
 
 ## Описание проекта
 Доступны данные о посещениях, заказах и расходах на рекламу в мобильном приложении. Задача — разобраться в причинах убыточности мобильного приложения и помочь компании выйти в плюс.

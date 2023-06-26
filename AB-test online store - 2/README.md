@@ -1,6 +1,6 @@
 # Анализ A/B-теста для интернет-магазина
 
-➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/AB-test%20online%20store%20-%202/AB-test%20online%20store%20-%202.ipynb)
+➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/AB-test%20online%20store%20-%202/AB-test%20online%20store%20-%202.ipynb)
 
 ## Описание проекта
 Подготовлен список гипотез для увеличения выручки. Необходимо приоритизировать гипотезы и проанализировать результаты одного из A/B тестов.

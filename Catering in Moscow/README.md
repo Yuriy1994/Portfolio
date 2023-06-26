@@ -1,6 +1,6 @@
 # Анализ рынка заведений общественного питания Москвы
 
-➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/Catering%20in%20Moscow/Analysis%20of%20the%20public%20catering%20market%20in%20Moscow.ipynb)
+➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/Catering%20in%20Moscow/Analysis%20of%20the%20public%20catering%20market%20in%20Moscow.ipynb)
 
 ## Описание проекта
 

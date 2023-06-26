@@ -1,6 +1,6 @@
 # Построения дашборда агрегатора новостей
 
-➡️ [Тетрадка ipynb](https://github.com/mechfil/Portfolio/blob/main/Yandex%20Zen%20dashboard/News%20aggregator%20dashboard.ipynb)
+➡️ [Тетрадка ipynb](https://github.com/mechfil/yandex_practicum/blob/main/Yandex%20Zen%20dashboard/News%20aggregator%20dashboard.ipynb)
 
 ## Описание проекта
 
